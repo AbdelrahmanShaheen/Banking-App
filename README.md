@@ -1,5 +1,5 @@
 # Banking-App
-Bankist is a fictitious and minimalistic online banking application that allows the user to:
+**Bankist is a fictitious and minimalistic online banking application that allows the user to:
 - Log in with a username and password.
 - View and sort their monetary movements.
 - Delete their account
@@ -14,6 +14,7 @@ Bankist is a fictitious and minimalistic online banking application that allows 
   so you can fake login with one of these two accounts:
   - user: `js` and PIN: `1111`
   - user: `jd` and PIN: `2222`
-
+2. This site is not currently responsive.
+3. 
 
 
