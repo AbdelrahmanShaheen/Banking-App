@@ -12,8 +12,8 @@
 ## Notes
 1. The user data is inside of the script.js file
   so you can fake login with one of these two accounts:
-  - user: `js` and PIN: `1111`
-  - user: `jd` and PIN: `2222`
+   - user: `js` and PIN: `1111`
+   - user: `jd` and PIN: `2222`
 2. This site is not currently responsive.
 3. The HTML and CSS are already provided by Jonas Schmedtmann and the Javascript work is done by me.
 ## Flowchart Diagram
