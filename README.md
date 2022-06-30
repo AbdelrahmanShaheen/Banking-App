@@ -29,3 +29,4 @@
 ## Deployment/Live Demo
 https://bankist-app-1.netlify.app/
 ## Screen record
+https://www.youtube.com/watch?v=oaEGs28xYsk
