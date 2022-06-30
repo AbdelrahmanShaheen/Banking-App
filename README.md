@@ -4,5 +4,5 @@ Bankist is a fictitious and minimalistic online banking application that allows 
 - View and sort their monetary movements.
 - Delete their account
 - Do some transactions like :
- - transfer money between the accounts
- - requeat a loan from the bank 
+  - transfer money between the accounts
+  - requeat a loan from the bank 
